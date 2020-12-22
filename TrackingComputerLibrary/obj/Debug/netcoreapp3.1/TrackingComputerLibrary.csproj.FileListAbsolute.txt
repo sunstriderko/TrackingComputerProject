@@ -1,0 +1,13 @@
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\bin\Debug\netcoreapp3.1\TrackingComputerLibrary.exe
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\bin\Debug\netcoreapp3.1\TrackingComputerLibrary.deps.json
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\bin\Debug\netcoreapp3.1\TrackingComputerLibrary.runtimeconfig.json
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\bin\Debug\netcoreapp3.1\TrackingComputerLibrary.runtimeconfig.dev.json
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\bin\Debug\netcoreapp3.1\TrackingComputerLibrary.dll
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\bin\Debug\netcoreapp3.1\TrackingComputerLibrary.pdb
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\obj\Debug\netcoreapp3.1\TrackingComputerLibrary.csprojAssemblyReference.cache
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\obj\Debug\netcoreapp3.1\TrackingComputerLibrary.AssemblyInfoInputs.cache
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\obj\Debug\netcoreapp3.1\TrackingComputerLibrary.AssemblyInfo.cs
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\obj\Debug\netcoreapp3.1\TrackingComputerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\obj\Debug\netcoreapp3.1\TrackingComputerLibrary.dll
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\obj\Debug\netcoreapp3.1\TrackingComputerLibrary.pdb
+C:\Users\adamc\source\repos\TrackingComputerProject\TrackingComputerLibrary\obj\Debug\netcoreapp3.1\TrackingComputerLibrary.genruntimeconfig.cache
